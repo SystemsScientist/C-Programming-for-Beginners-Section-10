@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675684904 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-10-Character-Strings/Overview/main.c
+	<stdio.h>
+	<stdlib.h>
+
