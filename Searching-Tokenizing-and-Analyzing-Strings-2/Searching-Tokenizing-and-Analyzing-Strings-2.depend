@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675773872 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-10-Character-Strings/Searching-Tokenizing-and-Analyzing-Strings-2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
