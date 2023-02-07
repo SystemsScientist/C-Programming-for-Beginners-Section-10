@@ -1,7 +1,7 @@
 /*
     Author: Matt Johnson
     Subject: character strings
-    Purpose:
+    Purpose: program finds, copies, concatenates, and compares strings
     Date: 02/07/2023
 */
 
