@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675858325 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-10-Character-Strings/Understanding-Char-Arrays/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
