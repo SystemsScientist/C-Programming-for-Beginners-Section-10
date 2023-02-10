@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676030605 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-10-Character-Strings/Using-Common-String-Functions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
