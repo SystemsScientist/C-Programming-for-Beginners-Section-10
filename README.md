@@ -26,7 +26,7 @@ and edification.
 
 To compile, build, and execute the Section 10 files and directories,
 
-    (1) click on the blud "Code" button above and click the
+    (1) click on the blue "Code" button above and click the
         "Download Zip" link, or
     (2) copy the code and paste it directly into your preferred
         Integrated Development Environment (IDE), CLion, CodeLite,
